@@ -14,3 +14,6 @@ hs_err_pid*
 # Gradle files and folders
 .gradle
 build
+
+# IDE files
+.idea/*
